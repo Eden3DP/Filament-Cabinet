@@ -11,7 +11,7 @@ Filament to display, preserve and store material
 # FAQ
 Q: What is the Eden3D Filament Cabinet?
 ---
-A: The Filament Cabinet is an all metal cabinet, for keeping material dry while on display.
+A: The Filament Cabinet is an all metal and glass cabinet for keeping material dry while on display. 
 
 Q: What does the Filament Cabinet do?
 ---
@@ -19,7 +19,7 @@ A: This filament cabinet can properly store your material in a climate-controlle
 
 Q: What is the purpose of the Filament Cabinet?
 ---
-A: The main purpose of this device is to act as a personal server, accompaning your 3D printer which features a 3D hologram-like display, showing you a "print preview" mode, in full 3D-like display before you begin to 3D print said object. This also acts as a full bitcoin & lightning node to connect to. 
+A: The main purpose of this device is to act as a personal server, accompaning your 3D printer which features a 3D hologram-like display, showing you a "print preview" mode, in full 3D-like display before you begin to 3D said object. This also acts as a full bitcoin & lightning node to connect to. 
 
 [In future release versions, this microSD card will become more useful with on-device features, without having to remove the hard drive.]
 
