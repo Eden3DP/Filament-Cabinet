@@ -19,7 +19,7 @@ A: This filament cabinet can properly store your material in a climate-controlle
 
 Q: What is the purpose of the Filament Cabinet?
 ---
-A: The main purpose of this device is to act as a personal server, accompaning your 3D printer which features a 3D hologram-like display, showing you a "print preview" mode, in full 3D-like display before you begin to 3D said object. This also acts as a full bitcoin & lightning node to connect to. 
+A: The main purpose of this device is to not only store your material in a dry, ready-to-use enviroment, but this is also a back-up system to consume power to continue to 3D print, in case extra power is needed, grid power goes off, and/or you'd like to use this machine in a remote location setting. All glass cabinet doors make it easy to view which material you'd like to use for your next build. 
 
 [In future release versions, this microSD card will become more useful with on-device features, without having to remove the hard drive.]
 
