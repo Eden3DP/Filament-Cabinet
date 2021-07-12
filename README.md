@@ -21,7 +21,7 @@ Q: What is the purpose of the Filament Cabinet?
 ---
 A: The main purpose of this device is to not only store your material in a dry, ready-to-use enviroment, but this is also a back-up system to consume power to continue to 3D print, in case extra power is needed, grid power goes off, and/or you'd like to use this machine in a remote location setting. All glass cabinet doors make it easy to view which material you'd like to use for your next build. 
 
-[In future release versions, this microSD card will become more useful with on-device features, without having to remove the hard drive.]
+[Stay up-to-date for future release versions.]
 
 Q: How stupid. Why would I want a battery backup in my filament cabinet!?
 ---
