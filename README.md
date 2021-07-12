@@ -25,7 +25,7 @@ A: The main purpose of this device is to not only store your material in a dry, 
 
 Q: How stupid. Why would I want a battery backup in my filament cabinet!?
 ---
-A: Why wouldn't you want to see what you are about to print, before you print it, IN 3D HOLOGRAM-LIKE FORM? This was designed by us, for us. We are simply sharing it with the world and excited to recieve any feedback to make the proper improvments where necessary in upcoming versions.  Thank you for any constructive criticism and feedback. It's greatly appreciated. 
+A: Why wouldn't you want an extra battery in times of need to run your Eden I and/or any other devices, while keeping your fiament on display in an climate-controlled enviroment? This was designed by us, for us. We are simply sharing it with the world and excited to recieve any feedback to make the proper improvments where necessary in upcoming versions.  Thank you for any constructive criticism and feedback. It's greatly appreciated. 
 
 
 
