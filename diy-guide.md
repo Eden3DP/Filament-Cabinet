@@ -1,9 +1,26 @@
 # Filament-Cabinet
 Filament to display, preserve and store material
+# A step-by-step guide to build your own Filament Cabinet
 
 
+------
+# Step 0
+Hardware prerequisites:
 
-[images uploaded soon]
+• [See our BOM (Bill of Materials) list here: ]
+
+
+------
+# Step 1
+Source all necessary components:
+
+• Review that you have all necessary hardware and software components ready to begin assembly [viewable above in 'Step 0']
+
+------
+# Step 2
+Begin Build:
+
+• 
 
 
 
